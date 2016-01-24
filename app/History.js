@@ -16,7 +16,6 @@ export default class extends React.Component {
       } else {
         gameResult = 'Tie';
       }
-      console.log(game.date);
       return (
         <tr key={i}>
           <td>{game.player}</td>

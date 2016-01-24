@@ -52,7 +52,6 @@ class App extends React.Component {
   }
 
   play(option) {
-    console.log(option);
     var game = {};
 
     if (this.state.computer === option) {
