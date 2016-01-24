@@ -36,7 +36,7 @@ export default class extends React.Component {
           </tr>
         </thead>
         <tbody>
-        {games}
+          {games}
         </tbody>
       </table>
     )
