@@ -32,3 +32,5 @@ Just run the server from the project root
 ***
 
 - [React](https://github.com/facebook/react)
+- [Webpack](https://webpack.github.io/">Webpack)
+- [Babel](http://babeljs.io)
